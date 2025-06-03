@@ -13,7 +13,7 @@ ul li {
 }
 
 body {
-    font-family:'Lucida Sans', sans-serif;
+    font-family:'Georgia', serif;
     background-color: antiquewhite;
     text-align: left;
     max-width: 30em;
@@ -76,4 +76,10 @@ footer {
     justify-content: center;
     gap: 2em;
     margin-top: 2em;
+}
+
+.disable-link {
+    color: #999;
+    cursor: not-allowed;
+    padding: 0 1em;
 }
