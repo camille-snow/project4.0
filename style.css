@@ -10,6 +10,14 @@ ul li {
     flex-wrap: wrap;
 }
 
+h1 {
+    font-size: 270%;
+}
+
+h2 {
+    font-size: 170%;
+}
+
 h1, h2 {
     background-color: rgba(133, 221, 255, 0.71);
     background-image:
